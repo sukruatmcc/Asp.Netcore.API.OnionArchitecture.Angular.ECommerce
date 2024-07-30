@@ -2,8 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\Core",
-    "\\Core\\ECommerceAPI.Application"
+    "\\Core\\ECommerceAPI.Application",
+    "\\Infrastucture",
+    "\\Infrastucture\\ECommerceAPI.Persistence",
+    "\\Presentation",
+    "\\Presentation\\ECommerceAPI.API"
   ],
-  "SelectedNode": "\\Core\\ECommerceAPI.Application\\Class1.cs",
+  "SelectedNode": "\\Presentation\\ECommerceAPI.API\\appsettings.json",
   "PreviewInSolutionExplorer": false
 }

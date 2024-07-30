@@ -16,3 +16,5 @@ C:\Users\sukru\Documents\GitHub\Asp.Netcore.API.OnionArchitecture.Angular.EComme
 C:\Users\sukru\Documents\GitHub\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\ECommerceAPI\ECommerceAPI\Infrastucture\ECommerceAPI.Persistence\obj\Debug\net6.0\refint\ECommerceAPI.Persistence.dll
 C:\Users\sukru\Documents\GitHub\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\ECommerceAPI\ECommerceAPI\Infrastucture\ECommerceAPI.Persistence\obj\Debug\net6.0\ECommerceAPI.Persistence.pdb
 C:\Users\sukru\Documents\GitHub\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\ECommerceAPI\ECommerceAPI\Infrastucture\ECommerceAPI.Persistence\obj\Debug\net6.0\ref\ECommerceAPI.Persistence.dll
+C:\Users\sukru\Documents\GitHub\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\ECommerceAPI\ECommerceAPI\Infrastucture\ECommerceAPI.Persistence\bin\Debug\net6.0\ECommerceAPI.Persistence.runtimeconfig.json
+C:\Users\sukru\Documents\GitHub\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\ECommerceAPI\ECommerceAPI\Infrastucture\ECommerceAPI.Persistence\obj\Debug\net6.0\ECommerceAPI.Persistence.genruntimeconfig.cache

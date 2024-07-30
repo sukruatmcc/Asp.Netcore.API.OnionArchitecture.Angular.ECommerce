@@ -38,3 +38,9 @@ C:\Users\sukru\Documents\GitHub\Asp.Netcore.API.OnionArchitecture.Angular.EComme
 C:\Users\sukru\Documents\GitHub\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\ECommerceAPI\ECommerceAPI\Presentation\ECommerceAPI.API\obj\Debug\net6.0\ECommerceAPI.API.pdb
 C:\Users\sukru\Documents\GitHub\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\ECommerceAPI\ECommerceAPI\Presentation\ECommerceAPI.API\obj\Debug\net6.0\ECommerceAPI.API.genruntimeconfig.cache
 C:\Users\sukru\Documents\GitHub\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\ECommerceAPI\ECommerceAPI\Presentation\ECommerceAPI.API\obj\Debug\net6.0\ref\ECommerceAPI.API.dll
+C:\Users\sukru\Documents\GitHub\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\ECommerceAPI\ECommerceAPI\Presentation\ECommerceAPI.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sukru\Documents\GitHub\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\ECommerceAPI\ECommerceAPI\Presentation\ECommerceAPI.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sukru\Documents\GitHub\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\ECommerceAPI\ECommerceAPI\Presentation\ECommerceAPI.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sukru\Documents\GitHub\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\ECommerceAPI\ECommerceAPI\Presentation\ECommerceAPI.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sukru\Documents\GitHub\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\ECommerceAPI\ECommerceAPI\Presentation\ECommerceAPI.API\bin\Debug\net6.0\Npgsql.dll
+C:\Users\sukru\Documents\GitHub\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\ECommerceAPI\ECommerceAPI\Presentation\ECommerceAPI.API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
