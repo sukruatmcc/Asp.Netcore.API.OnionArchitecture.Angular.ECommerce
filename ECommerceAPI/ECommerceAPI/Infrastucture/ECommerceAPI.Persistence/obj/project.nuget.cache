@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xAUAnAA2sR4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Infrastucture\\ECommerceAPI.Persistence\\ECommerceAPI.Persistence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sukru\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
