@@ -3,11 +3,13 @@
     "",
     "\\Core",
     "\\Core\\ECommerceAPI.Application",
+    "\\Core\\ECommerceAPI.Domain",
+    "\\Core\\ECommerceAPI.Domain\\Entities",
     "\\Infrastucture",
     "\\Infrastucture\\ECommerceAPI.Persistence",
     "\\Presentation",
     "\\Presentation\\ECommerceAPI.API"
   ],
-  "SelectedNode": "\\Presentation\\ECommerceAPI.API\\appsettings.json",
+  "SelectedNode": "\\Infrastucture\\ECommerceAPI.Persistence\\Configutation.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -3,20 +3,104 @@
   "WorkspaceRootPath": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F59264C9-6AD8-40C7-B2DF-841FC943697A}|Infrastucture\\ECommerceAPI.Persistence\\ECommerceAPI.Persistence.csproj|c:\\users\\sukru\\documents\\github\\asp.netcore.api.onionarchitecture.angular.ecommerce\\ecommerceapi\\ecommerceapi\\infrastucture\\ecommerceapi.persistence\\configutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F59264C9-6AD8-40C7-B2DF-841FC943697A}|Infrastucture\\ECommerceAPI.Persistence\\ECommerceAPI.Persistence.csproj|solutionrelative:infrastucture\\ecommerceapi.persistence\\configutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F59264C9-6AD8-40C7-B2DF-841FC943697A}|Infrastucture\\ECommerceAPI.Persistence\\ECommerceAPI.Persistence.csproj|c:\\users\\sukru\\documents\\github\\asp.netcore.api.onionarchitecture.angular.ecommerce\\ecommerceapi\\ecommerceapi\\infrastucture\\ecommerceapi.persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F59264C9-6AD8-40C7-B2DF-841FC943697A}|Infrastucture\\ECommerceAPI.Persistence\\ECommerceAPI.Persistence.csproj|solutionrelative:infrastucture\\ecommerceapi.persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA4F09D-D94E-4C89-9715-049B494B83AB}|Presentation\\ECommerceAPI.API\\ECommerceAPI.API.csproj|c:\\users\\sukru\\documents\\github\\asp.netcore.api.onionarchitecture.angular.ecommerce\\ecommerceapi\\ecommerceapi\\presentation\\ecommerceapi.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA4F09D-D94E-4C89-9715-049B494B83AB}|Presentation\\ECommerceAPI.API\\ECommerceAPI.API.csproj|solutionrelative:presentation\\ecommerceapi.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59264C9-6AD8-40C7-B2DF-841FC943697A}|Infrastucture\\ECommerceAPI.Persistence\\ECommerceAPI.Persistence.csproj|c:\\users\\sukru\\documents\\github\\asp.netcore.api.onionarchitecture.angular.ecommerce\\ecommerceapi\\ecommerceapi\\infrastucture\\ecommerceapi.persistence\\repositories\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59264C9-6AD8-40C7-B2DF-841FC943697A}|Infrastucture\\ECommerceAPI.Persistence\\ECommerceAPI.Persistence.csproj|solutionrelative:infrastucture\\ecommerceapi.persistence\\repositories\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59264C9-6AD8-40C7-B2DF-841FC943697A}|Infrastucture\\ECommerceAPI.Persistence\\ECommerceAPI.Persistence.csproj|c:\\users\\sukru\\documents\\github\\asp.netcore.api.onionarchitecture.angular.ecommerce\\ecommerceapi\\ecommerceapi\\infrastucture\\ecommerceapi.persistence\\repositories\\product\\productwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59264C9-6AD8-40C7-B2DF-841FC943697A}|Infrastucture\\ECommerceAPI.Persistence\\ECommerceAPI.Persistence.csproj|solutionrelative:infrastucture\\ecommerceapi.persistence\\repositories\\product\\productwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFDB1D6-CA1A-45BD-9EE9-E558A30B2450}|Core\\ECommerceAPI.Application\\ECommerceAPI.Application.csproj|c:\\users\\sukru\\documents\\github\\asp.netcore.api.onionarchitecture.angular.ecommerce\\ecommerceapi\\ecommerceapi\\core\\ecommerceapi.application\\repositories\\product\\iproductwriterepository.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFDB1D6-CA1A-45BD-9EE9-E558A30B2450}|Core\\ECommerceAPI.Application\\ECommerceAPI.Application.csproj|solutionrelative:core\\ecommerceapi.application\\repositories\\product\\iproductwriterepository.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59264C9-6AD8-40C7-B2DF-841FC943697A}|Infrastucture\\ECommerceAPI.Persistence\\ECommerceAPI.Persistence.csproj|c:\\users\\sukru\\documents\\github\\asp.netcore.api.onionarchitecture.angular.ecommerce\\ecommerceapi\\ecommerceapi\\infrastucture\\ecommerceapi.persistence\\contexts\\ecommerceapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59264C9-6AD8-40C7-B2DF-841FC943697A}|Infrastucture\\ECommerceAPI.Persistence\\ECommerceAPI.Persistence.csproj|solutionrelative:infrastucture\\ecommerceapi.persistence\\contexts\\ecommerceapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA4F09D-D94E-4C89-9715-049B494B83AB}|Presentation\\ECommerceAPI.API\\ECommerceAPI.API.csproj|c:\\users\\sukru\\documents\\github\\asp.netcore.api.onionarchitecture.angular.ecommerce\\ecommerceapi\\ecommerceapi\\presentation\\ecommerceapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BFA4F09D-D94E-4C89-9715-049B494B83AB}|Presentation\\ECommerceAPI.API\\ECommerceAPI.API.csproj|solutionrelative:presentation\\ecommerceapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F59264C9-6AD8-40C7-B2DF-841FC943697A}|Infrastucture\\ECommerceAPI.Persistence\\ECommerceAPI.Persistence.csproj|c:\\users\\sukru\\documents\\github\\asp.netcore.api.onionarchitecture.angular.ecommerce\\ecommerceapi\\ecommerceapi\\infrastucture\\ecommerceapi.persistence\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F59264C9-6AD8-40C7-B2DF-841FC943697A}|Infrastucture\\ECommerceAPI.Persistence\\ECommerceAPI.Persistence.csproj|solutionrelative:infrastucture\\ecommerceapi.persistence\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFA4F09D-D94E-4C89-9715-049B494B83AB}|Presentation\\ECommerceAPI.API\\ECommerceAPI.API.csproj|c:\\users\\sukru\\documents\\github\\asp.netcore.api.onionarchitecture.angular.ecommerce\\ecommerceapi\\ecommerceapi\\presentation\\ecommerceapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BFA4F09D-D94E-4C89-9715-049B494B83AB}|Presentation\\ECommerceAPI.API\\ECommerceAPI.API.csproj|solutionrelative:presentation\\ecommerceapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{6DFDB1D6-CA1A-45BD-9EE9-E558A30B2450}|Core\\ECommerceAPI.Application\\ECommerceAPI.Application.csproj|c:\\users\\sukru\\documents\\github\\asp.netcore.api.onionarchitecture.angular.ecommerce\\ecommerceapi\\ecommerceapi\\core\\ecommerceapi.application\\repositories\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFDB1D6-CA1A-45BD-9EE9-E558A30B2450}|Core\\ECommerceAPI.Application\\ECommerceAPI.Application.csproj|solutionrelative:core\\ecommerceapi.application\\repositories\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59264C9-6AD8-40C7-B2DF-841FC943697A}|Infrastucture\\ECommerceAPI.Persistence\\ECommerceAPI.Persistence.csproj|c:\\users\\sukru\\documents\\github\\asp.netcore.api.onionarchitecture.angular.ecommerce\\ecommerceapi\\ecommerceapi\\infrastucture\\ecommerceapi.persistence\\repositories\\customer\\customerreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59264C9-6AD8-40C7-B2DF-841FC943697A}|Infrastucture\\ECommerceAPI.Persistence\\ECommerceAPI.Persistence.csproj|solutionrelative:infrastucture\\ecommerceapi.persistence\\repositories\\customer\\customerreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFDB1D6-CA1A-45BD-9EE9-E558A30B2450}|Core\\ECommerceAPI.Application\\ECommerceAPI.Application.csproj|c:\\users\\sukru\\documents\\github\\asp.netcore.api.onionarchitecture.angular.ecommerce\\ecommerceapi\\ecommerceapi\\core\\ecommerceapi.application\\repositories\\product\\iproductreadrepository.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFDB1D6-CA1A-45BD-9EE9-E558A30B2450}|Core\\ECommerceAPI.Application\\ECommerceAPI.Application.csproj|solutionrelative:core\\ecommerceapi.application\\repositories\\product\\iproductreadrepository.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA4F09D-D94E-4C89-9715-049B494B83AB}|Presentation\\ECommerceAPI.API\\ECommerceAPI.API.csproj|c:\\users\\sukru\\documents\\github\\asp.netcore.api.onionarchitecture.angular.ecommerce\\ecommerceapi\\ecommerceapi\\presentation\\ecommerceapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA4F09D-D94E-4C89-9715-049B494B83AB}|Presentation\\ECommerceAPI.API\\ECommerceAPI.API.csproj|solutionrelative:presentation\\ecommerceapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59264C9-6AD8-40C7-B2DF-841FC943697A}|Infrastucture\\ECommerceAPI.Persistence\\ECommerceAPI.Persistence.csproj|c:\\users\\sukru\\documents\\github\\asp.netcore.api.onionarchitecture.angular.ecommerce\\ecommerceapi\\ecommerceapi\\infrastucture\\ecommerceapi.persistence\\repositories\\customer\\customerwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59264C9-6AD8-40C7-B2DF-841FC943697A}|Infrastucture\\ECommerceAPI.Persistence\\ECommerceAPI.Persistence.csproj|solutionrelative:infrastucture\\ecommerceapi.persistence\\repositories\\customer\\customerwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59264C9-6AD8-40C7-B2DF-841FC943697A}|Infrastucture\\ECommerceAPI.Persistence\\ECommerceAPI.Persistence.csproj|c:\\users\\sukru\\documents\\github\\asp.netcore.api.onionarchitecture.angular.ecommerce\\ecommerceapi\\ecommerceapi\\infrastucture\\ecommerceapi.persistence\\repositories\\order\\orderreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59264C9-6AD8-40C7-B2DF-841FC943697A}|Infrastucture\\ECommerceAPI.Persistence\\ECommerceAPI.Persistence.csproj|solutionrelative:infrastucture\\ecommerceapi.persistence\\repositories\\order\\orderreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFDB1D6-CA1A-45BD-9EE9-E558A30B2450}|Core\\ECommerceAPI.Application\\ECommerceAPI.Application.csproj|c:\\users\\sukru\\documents\\github\\asp.netcore.api.onionarchitecture.angular.ecommerce\\ecommerceapi\\ecommerceapi\\core\\ecommerceapi.application\\ecommerceapi.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6DFDB1D6-CA1A-45BD-9EE9-E558A30B2450}|Core\\ECommerceAPI.Application\\ECommerceAPI.Application.csproj|solutionrelative:core\\ecommerceapi.application\\ecommerceapi.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59264C9-6AD8-40C7-B2DF-841FC943697A}|Infrastucture\\ECommerceAPI.Persistence\\ECommerceAPI.Persistence.csproj|c:\\users\\sukru\\documents\\github\\asp.netcore.api.onionarchitecture.angular.ecommerce\\ecommerceapi\\ecommerceapi\\infrastucture\\ecommerceapi.persistence\\ecommerceapi.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F59264C9-6AD8-40C7-B2DF-841FC943697A}|Infrastucture\\ECommerceAPI.Persistence\\ECommerceAPI.Persistence.csproj|solutionrelative:infrastucture\\ecommerceapi.persistence\\ecommerceapi.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59264C9-6AD8-40C7-B2DF-841FC943697A}|Infrastucture\\ECommerceAPI.Persistence\\ECommerceAPI.Persistence.csproj|c:\\users\\sukru\\documents\\github\\asp.netcore.api.onionarchitecture.angular.ecommerce\\ecommerceapi\\ecommerceapi\\infrastucture\\ecommerceapi.persistence\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59264C9-6AD8-40C7-B2DF-841FC943697A}|Infrastucture\\ECommerceAPI.Persistence\\ECommerceAPI.Persistence.csproj|solutionrelative:infrastucture\\ecommerceapi.persistence\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFDB1D6-CA1A-45BD-9EE9-E558A30B2450}|Core\\ECommerceAPI.Application\\ECommerceAPI.Application.csproj|c:\\users\\sukru\\documents\\github\\asp.netcore.api.onionarchitecture.angular.ecommerce\\ecommerceapi\\ecommerceapi\\core\\ecommerceapi.application\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFDB1D6-CA1A-45BD-9EE9-E558A30B2450}|Core\\ECommerceAPI.Application\\ECommerceAPI.Application.csproj|solutionrelative:core\\ecommerceapi.application\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFDB1D6-CA1A-45BD-9EE9-E558A30B2450}|Core\\ECommerceAPI.Application\\ECommerceAPI.Application.csproj|c:\\users\\sukru\\documents\\github\\asp.netcore.api.onionarchitecture.angular.ecommerce\\ecommerceapi\\ecommerceapi\\core\\ecommerceapi.application\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFDB1D6-CA1A-45BD-9EE9-E558A30B2450}|Core\\ECommerceAPI.Application\\ECommerceAPI.Application.csproj|solutionrelative:core\\ecommerceapi.application\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59264C9-6AD8-40C7-B2DF-841FC943697A}|Infrastucture\\ECommerceAPI.Persistence\\ECommerceAPI.Persistence.csproj|c:\\users\\sukru\\documents\\github\\asp.netcore.api.onionarchitecture.angular.ecommerce\\ecommerceapi\\ecommerceapi\\infrastucture\\ecommerceapi.persistence\\repositories\\product\\productreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59264C9-6AD8-40C7-B2DF-841FC943697A}|Infrastucture\\ECommerceAPI.Persistence\\ECommerceAPI.Persistence.csproj|solutionrelative:infrastucture\\ecommerceapi.persistence\\repositories\\product\\productreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59264C9-6AD8-40C7-B2DF-841FC943697A}|Infrastucture\\ECommerceAPI.Persistence\\ECommerceAPI.Persistence.csproj|c:\\users\\sukru\\documents\\github\\asp.netcore.api.onionarchitecture.angular.ecommerce\\ecommerceapi\\ecommerceapi\\infrastucture\\ecommerceapi.persistence\\repositories\\order\\orderwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59264C9-6AD8-40C7-B2DF-841FC943697A}|Infrastucture\\ECommerceAPI.Persistence\\ECommerceAPI.Persistence.csproj|solutionrelative:infrastucture\\ecommerceapi.persistence\\repositories\\order\\orderwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFDB1D6-CA1A-45BD-9EE9-E558A30B2450}|Core\\ECommerceAPI.Application\\ECommerceAPI.Application.csproj|c:\\users\\sukru\\documents\\github\\asp.netcore.api.onionarchitecture.angular.ecommerce\\ecommerceapi\\ecommerceapi\\core\\ecommerceapi.application\\repositories\\customer\\icustomerreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFDB1D6-CA1A-45BD-9EE9-E558A30B2450}|Core\\ECommerceAPI.Application\\ECommerceAPI.Application.csproj|solutionrelative:core\\ecommerceapi.application\\repositories\\customer\\icustomerreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFDB1D6-CA1A-45BD-9EE9-E558A30B2450}|Core\\ECommerceAPI.Application\\ECommerceAPI.Application.csproj|c:\\users\\sukru\\documents\\github\\asp.netcore.api.onionarchitecture.angular.ecommerce\\ecommerceapi\\ecommerceapi\\core\\ecommerceapi.application\\repositories\\order\\iorderreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFDB1D6-CA1A-45BD-9EE9-E558A30B2450}|Core\\ECommerceAPI.Application\\ECommerceAPI.Application.csproj|solutionrelative:core\\ecommerceapi.application\\repositories\\order\\iorderreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFDB1D6-CA1A-45BD-9EE9-E558A30B2450}|Core\\ECommerceAPI.Application\\ECommerceAPI.Application.csproj|c:\\users\\sukru\\documents\\github\\asp.netcore.api.onionarchitecture.angular.ecommerce\\ecommerceapi\\ecommerceapi\\core\\ecommerceapi.application\\repositories\\order\\iorderwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFDB1D6-CA1A-45BD-9EE9-E558A30B2450}|Core\\ECommerceAPI.Application\\ECommerceAPI.Application.csproj|solutionrelative:core\\ecommerceapi.application\\repositories\\order\\iorderwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFDB1D6-CA1A-45BD-9EE9-E558A30B2450}|Core\\ECommerceAPI.Application\\ECommerceAPI.Application.csproj|c:\\users\\sukru\\documents\\github\\asp.netcore.api.onionarchitecture.angular.ecommerce\\ecommerceapi\\ecommerceapi\\core\\ecommerceapi.application\\repositories\\customer\\icustomerwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFDB1D6-CA1A-45BD-9EE9-E558A30B2450}|Core\\ECommerceAPI.Application\\ECommerceAPI.Application.csproj|solutionrelative:core\\ecommerceapi.application\\repositories\\customer\\icustomerwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F59264C9-6AD8-40C7-B2DF-841FC943697A}|Infrastucture\\ECommerceAPI.Persistence\\ECommerceAPI.Persistence.csproj|c:\\users\\sukru\\documents\\github\\asp.netcore.api.onionarchitecture.angular.ecommerce\\ecommerceapi\\ecommerceapi\\infrastucture\\ecommerceapi.persistence\\migrations\\ecommerceapidbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,41 +118,324 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Configutation.cs",
-              "DocumentMoniker": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Infrastucture\\ECommerceAPI.Persistence\\Configutation.cs",
-              "RelativeDocumentMoniker": "Infrastucture\\ECommerceAPI.Persistence\\Configutation.cs",
-              "ToolTip": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Infrastucture\\ECommerceAPI.Persistence\\Configutation.cs",
-              "RelativeToolTip": "Infrastucture\\ECommerceAPI.Persistence\\Configutation.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABCAAAA",
+              "DocumentIndex": 2,
+              "Title": "WriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Infrastucture\\ECommerceAPI.Persistence\\Repositories\\WriteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastucture\\ECommerceAPI.Persistence\\Repositories\\WriteRepository.cs",
+              "ToolTip": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Infrastucture\\ECommerceAPI.Persistence\\Repositories\\WriteRepository.cs",
+              "RelativeToolTip": "Infrastucture\\ECommerceAPI.Persistence\\Repositories\\WriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T19:11:58.828Z",
+              "WhenOpened": "2024-08-03T15:39:56.139Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
+              "Title": "IWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Core\\ECommerceAPI.Application\\Repositories\\IWriteRepository.cs",
+              "RelativeDocumentMoniker": "Core\\ECommerceAPI.Application\\Repositories\\IWriteRepository.cs",
+              "ToolTip": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Core\\ECommerceAPI.Application\\Repositories\\IWriteRepository.cs",
+              "RelativeToolTip": "Core\\ECommerceAPI.Application\\Repositories\\IWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T12:55:46.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Presentation\\ECommerceAPI.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Presentation\\ECommerceAPI.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Presentation\\ECommerceAPI.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Presentation\\ECommerceAPI.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T17:12:11.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Presentation\\ECommerceAPI.API\\appsettings.json",
               "RelativeDocumentMoniker": "Presentation\\ECommerceAPI.API\\appsettings.json",
               "ToolTip": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Presentation\\ECommerceAPI.API\\appsettings.json",
               "RelativeToolTip": "Presentation\\ECommerceAPI.API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-30T18:34:45.825Z",
+              "WhenOpened": "2024-07-30T18:34:45.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ECommerceAPI.Persistence.csproj",
+              "DocumentMoniker": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Infrastucture\\ECommerceAPI.Persistence\\ECommerceAPI.Persistence.csproj",
+              "RelativeDocumentMoniker": "Infrastucture\\ECommerceAPI.Persistence\\ECommerceAPI.Persistence.csproj",
+              "ToolTip": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Infrastucture\\ECommerceAPI.Persistence\\ECommerceAPI.Persistence.csproj",
+              "RelativeToolTip": "Infrastucture\\ECommerceAPI.Persistence\\ECommerceAPI.Persistence.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-03T17:33:25.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ECommerceAPIDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Infrastucture\\ECommerceAPI.Persistence\\Contexts\\ECommerceAPIDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastucture\\ECommerceAPI.Persistence\\Contexts\\ECommerceAPIDbContext.cs",
+              "ToolTip": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Infrastucture\\ECommerceAPI.Persistence\\Contexts\\ECommerceAPIDbContext.cs",
+              "RelativeToolTip": "Infrastucture\\ECommerceAPI.Persistence\\Contexts\\ECommerceAPIDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T20:29:28.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Infrastucture\\ECommerceAPI.Persistence\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Infrastucture\\ECommerceAPI.Persistence\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Infrastucture\\ECommerceAPI.Persistence\\ServiceRegistration.cs",
+              "RelativeToolTip": "Infrastucture\\ECommerceAPI.Persistence\\ServiceRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T18:25:45.441Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Presentation\\ECommerceAPI.API\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\ECommerceAPI.API\\Program.cs",
+              "ToolTip": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Presentation\\ECommerceAPI.API\\Program.cs",
+              "RelativeToolTip": "Presentation\\ECommerceAPI.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T20:20:16.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DesignTimeDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Infrastucture\\ECommerceAPI.Persistence\\DesignTimeDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Infrastucture\\ECommerceAPI.Persistence\\DesignTimeDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Infrastucture\\ECommerceAPI.Persistence\\DesignTimeDbContextFactory.cs",
+              "RelativeToolTip": "Infrastucture\\ECommerceAPI.Persistence\\DesignTimeDbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T18:25:54.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Infrastucture\\ECommerceAPI.Persistence\\Repositories\\ReadRepository.cs",
+              "RelativeDocumentMoniker": "Infrastucture\\ECommerceAPI.Persistence\\Repositories\\ReadRepository.cs",
+              "ToolTip": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Infrastucture\\ECommerceAPI.Persistence\\Repositories\\ReadRepository.cs",
+              "RelativeToolTip": "Infrastucture\\ECommerceAPI.Persistence\\Repositories\\ReadRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAApwB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T13:24:17.419Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "IProductWriteRepository.cs.cs",
+              "DocumentMoniker": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Core\\ECommerceAPI.Application\\Repositories\\Product\\IProductWriteRepository.cs.cs",
+              "RelativeDocumentMoniker": "Core\\ECommerceAPI.Application\\Repositories\\Product\\IProductWriteRepository.cs.cs",
+              "ToolTip": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Core\\ECommerceAPI.Application\\Repositories\\Product\\IProductWriteRepository.cs.cs",
+              "RelativeToolTip": "Core\\ECommerceAPI.Application\\Repositories\\Product\\IProductWriteRepository.cs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T16:29:32.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Infrastucture\\ECommerceAPI.Persistence\\Repositories\\Product\\ProductWriteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastucture\\ECommerceAPI.Persistence\\Repositories\\Product\\ProductWriteRepository.cs",
+              "ToolTip": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Infrastucture\\ECommerceAPI.Persistence\\Repositories\\Product\\ProductWriteRepository.cs",
+              "RelativeToolTip": "Infrastucture\\ECommerceAPI.Persistence\\Repositories\\Product\\ProductWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T16:40:10.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductReadRepository.cs.cs",
+              "DocumentMoniker": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Core\\ECommerceAPI.Application\\Repositories\\Product\\IProductReadRepository.cs.cs",
+              "RelativeDocumentMoniker": "Core\\ECommerceAPI.Application\\Repositories\\Product\\IProductReadRepository.cs.cs",
+              "ToolTip": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Core\\ECommerceAPI.Application\\Repositories\\Product\\IProductReadRepository.cs.cs",
+              "RelativeToolTip": "Core\\ECommerceAPI.Application\\Repositories\\Product\\IProductReadRepository.cs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T16:29:46.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Infrastucture\\ECommerceAPI.Persistence\\Repositories\\Customer\\CustomerReadRepository.cs",
+              "RelativeDocumentMoniker": "Infrastucture\\ECommerceAPI.Persistence\\Repositories\\Customer\\CustomerReadRepository.cs",
+              "ToolTip": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Infrastucture\\ECommerceAPI.Persistence\\Repositories\\Customer\\CustomerReadRepository.cs",
+              "RelativeToolTip": "Infrastucture\\ECommerceAPI.Persistence\\Repositories\\Customer\\CustomerReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAACSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T16:38:36.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Core\\ECommerceAPI.Application\\Repositories\\IReadRepository.cs",
+              "RelativeDocumentMoniker": "Core\\ECommerceAPI.Application\\Repositories\\IReadRepository.cs",
+              "ToolTip": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Core\\ECommerceAPI.Application\\Repositories\\IReadRepository.cs",
+              "RelativeToolTip": "Core\\ECommerceAPI.Application\\Repositories\\IReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T12:54:59.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IOrderReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Core\\ECommerceAPI.Application\\Repositories\\Order\\IOrderReadRepository.cs",
+              "RelativeDocumentMoniker": "Core\\ECommerceAPI.Application\\Repositories\\Order\\IOrderReadRepository.cs",
+              "ToolTip": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Core\\ECommerceAPI.Application\\Repositories\\Order\\IOrderReadRepository.cs",
+              "RelativeToolTip": "Core\\ECommerceAPI.Application\\Repositories\\Order\\IOrderReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T16:27:59.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Infrastucture\\ECommerceAPI.Persistence\\Repositories\\Customer\\CustomerWriteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastucture\\ECommerceAPI.Persistence\\Repositories\\Customer\\CustomerWriteRepository.cs",
+              "ToolTip": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Infrastucture\\ECommerceAPI.Persistence\\Repositories\\Customer\\CustomerWriteRepository.cs",
+              "RelativeToolTip": "Infrastucture\\ECommerceAPI.Persistence\\Repositories\\Customer\\CustomerWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T16:39:00.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Infrastucture\\ECommerceAPI.Persistence\\Repositories\\Order\\OrderWriteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastucture\\ECommerceAPI.Persistence\\Repositories\\Order\\OrderWriteRepository.cs",
+              "ToolTip": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Infrastucture\\ECommerceAPI.Persistence\\Repositories\\Order\\OrderWriteRepository.cs",
+              "RelativeToolTip": "Infrastucture\\ECommerceAPI.Persistence\\Repositories\\Order\\OrderWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T16:39:28.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ECommerceAPI.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Core\\ECommerceAPI.Application\\ECommerceAPI.Application.csproj",
+              "RelativeDocumentMoniker": "Core\\ECommerceAPI.Application\\ECommerceAPI.Application.csproj",
+              "ToolTip": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Core\\ECommerceAPI.Application\\ECommerceAPI.Application.csproj",
+              "RelativeToolTip": "Core\\ECommerceAPI.Application\\ECommerceAPI.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-03T17:34:03.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Infrastucture\\ECommerceAPI.Persistence\\Repositories\\Order\\OrderReadRepository.cs",
+              "RelativeDocumentMoniker": "Infrastucture\\ECommerceAPI.Persistence\\Repositories\\Order\\OrderReadRepository.cs",
+              "ToolTip": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Infrastucture\\ECommerceAPI.Persistence\\Repositories\\Order\\OrderReadRepository.cs",
+              "RelativeToolTip": "Infrastucture\\ECommerceAPI.Persistence\\Repositories\\Order\\OrderReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T16:39:56.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Core\\ECommerceAPI.Application\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Core\\ECommerceAPI.Application\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Core\\ECommerceAPI.Application\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Core\\ECommerceAPI.Application\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T12:52:25.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Infrastucture\\ECommerceAPI.Persistence\\Repositories\\Product\\ProductReadRepository.cs",
+              "RelativeDocumentMoniker": "Infrastucture\\ECommerceAPI.Persistence\\Repositories\\Product\\ProductReadRepository.cs",
+              "ToolTip": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Infrastucture\\ECommerceAPI.Persistence\\Repositories\\Product\\ProductReadRepository.cs",
+              "RelativeToolTip": "Infrastucture\\ECommerceAPI.Persistence\\Repositories\\Product\\ProductReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T16:41:03.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IOrderWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Core\\ECommerceAPI.Application\\Repositories\\Order\\IOrderWriteRepository.cs",
+              "RelativeDocumentMoniker": "Core\\ECommerceAPI.Application\\Repositories\\Order\\IOrderWriteRepository.cs",
+              "ToolTip": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Core\\ECommerceAPI.Application\\Repositories\\Order\\IOrderWriteRepository.cs",
+              "RelativeToolTip": "Core\\ECommerceAPI.Application\\Repositories\\Order\\IOrderWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T16:29:13.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ICustomerWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Core\\ECommerceAPI.Application\\Repositories\\Customer\\ICustomerWriteRepository.cs",
+              "RelativeDocumentMoniker": "Core\\ECommerceAPI.Application\\Repositories\\Customer\\ICustomerWriteRepository.cs",
+              "ToolTip": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Core\\ECommerceAPI.Application\\Repositories\\Customer\\ICustomerWriteRepository.cs",
+              "RelativeToolTip": "Core\\ECommerceAPI.Application\\Repositories\\Customer\\ICustomerWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T16:28:35.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ICustomerReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Core\\ECommerceAPI.Application\\Repositories\\Customer\\ICustomerReadRepository.cs",
+              "RelativeDocumentMoniker": "Core\\ECommerceAPI.Application\\Repositories\\Customer\\ICustomerReadRepository.cs",
+              "ToolTip": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Core\\ECommerceAPI.Application\\Repositories\\Customer\\ICustomerReadRepository.cs",
+              "RelativeToolTip": "Core\\ECommerceAPI.Application\\Repositories\\Customer\\ICustomerReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T16:27:19.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "ECommerceAPIDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Infrastucture\\ECommerceAPI.Persistence\\Migrations\\ECommerceAPIDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Infrastucture\\ECommerceAPI.Persistence\\Migrations\\ECommerceAPIDbContextModelSnapshot.cs",
@@ -80,39 +447,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DesignTimeDbContextFactory.cs",
-              "DocumentMoniker": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Infrastucture\\ECommerceAPI.Persistence\\DesignTimeDbContextFactory.cs",
-              "RelativeDocumentMoniker": "Infrastucture\\ECommerceAPI.Persistence\\DesignTimeDbContextFactory.cs",
-              "ToolTip": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Infrastucture\\ECommerceAPI.Persistence\\DesignTimeDbContextFactory.cs",
-              "RelativeToolTip": "Infrastucture\\ECommerceAPI.Persistence\\DesignTimeDbContextFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T18:25:54.878Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Infrastucture\\ECommerceAPI.Persistence\\ServiceRegistration.cs",
-              "RelativeDocumentMoniker": "Infrastucture\\ECommerceAPI.Persistence\\ServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Infrastucture\\ECommerceAPI.Persistence\\ServiceRegistration.cs",
-              "RelativeToolTip": "Infrastucture\\ECommerceAPI.Persistence\\ServiceRegistration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T18:25:45.441Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 26,
               "Title": "20240730175744_mig_1.cs",
               "DocumentMoniker": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Infrastucture\\ECommerceAPI.Persistence\\Migrations\\20240730175744_mig_1.cs",
               "RelativeDocumentMoniker": "Infrastucture\\ECommerceAPI.Persistence\\Migrations\\20240730175744_mig_1.cs",
               "ToolTip": "C:\\Users\\sukru\\Documents\\GitHub\\Asp.Netcore.API.OnionArchitecture.Angular.ECommerce\\ECommerceAPI\\ECommerceAPI\\Infrastucture\\ECommerceAPI.Persistence\\Migrations\\20240730175744_mig_1.cs",
               "RelativeToolTip": "Infrastucture\\ECommerceAPI.Persistence\\Migrations\\20240730175744_mig_1.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAhAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBkAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-30T17:58:59.181Z"
             }
